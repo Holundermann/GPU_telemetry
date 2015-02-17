@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/connect-icon.png</file>
+        <file>images/document-save-3.png</file>
+        <file>images/zoomin.png</file>
+        <file>images/zoomout.png</file>
+        <file>images/diagramm.png</file>
+        <file>images/document-save_binary.png</file>
+        <file>images/document-save_svg.png</file>
+    </qresource>
+</RCC>
